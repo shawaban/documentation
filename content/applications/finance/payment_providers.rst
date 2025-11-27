@@ -26,7 +26,7 @@ Online payments
    payment_providers/stripe
    payment_providers/worldline
    payment_providers/xendit
-   payment_providers/bank_payments
+   payment_providers/bank_payments/BCA Denih Setiawan No. 7370547305
    payment_providers/inperson_payments
 
 Odoo embeds several **payment providers** that allow your customers to pay online, on their
